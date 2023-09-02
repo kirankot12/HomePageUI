@@ -1,6 +1,7 @@
 # homepage_ui
 
-A new Flutter project.
+![image](https://github.com/kirankot12/HomePageUI/assets/116199155/47c9d35e-044f-4349-a44c-015f159ce566)
+
 
 ## Getting Started
 
